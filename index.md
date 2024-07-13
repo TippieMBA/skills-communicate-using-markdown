@@ -4,6 +4,19 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+# example of code documentation
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+# example of java code snippet
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
 
 
 
