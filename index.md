@@ -2,6 +2,9 @@
 #  it's important that we change to the files we are intending to do
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 
 
 
